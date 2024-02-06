@@ -10,24 +10,54 @@
     background-color: lightyellow;
 }
 .name{}
-.direction.hover {
+.direction:hover {
     background-color: lightblue;
     color: red;
 }
 .LUBOV{
     color: violet;
 }
+.LUBOV:hover{
+    text-shadow: 3px 3px red;
+    filter:blur(0.25px);
+    border: 1px solid black;
+    width: fit-content;
+}
 .GAEV{
     color: indigo;
+}
+.GAEV:hover{
+    text-shadow:3px 3px rosybrown ;
+    filter:blur(00.25px);
+    border:1px solid black ;
+    width: fit-content;
 }
 .ANYA{
     color: blue;
 }
+.ANYA:hover{
+    text-shadow:3px 3px sandybrown ;
+    filter:blur(00.25px);
+    border:1px solid black ;
+    width: fit-content;
+}
 .LOPAKHIN{
     color: green;
 }
+.LOPAKHIN:hover{
+    text-shadow:3px 3px orchid ;
+    filter:blur(00.25px);
+    border:1px solid black ;
+    width: fit-content;
+}
 .TROFIMOV{
     color:orange;
+}
+.TROFIMOV:hover{
+    text-shadow:3px 3px gray ;
+    filter:blur(00.25px);
+    border:1px solid black ;
+    width: fit-content;
 }
 
 table,th,td{
