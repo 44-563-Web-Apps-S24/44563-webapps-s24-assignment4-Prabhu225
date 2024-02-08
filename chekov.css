@@ -59,6 +59,39 @@
     border:1px solid black ;
     width: fit-content;
 }
+.navbar{
+    background-color: burlywood;
+    color: beige;
+    text-align:justify;
+    padding: 8px;
+    height: 150px;
+    width: 100px;
+    display: contents;
+    justify-content: space-around;
+}
+.navbar:hover{
+    color: navajowhite;
+}
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  
+  }
+  ul.navbar-horizontal li {
+    float:left;
+    color:#000;
+    background-color:beige;
+  } 
+  ul.navbar-horizontal a {
+    display:block;
+    padding:8px
+  }
+  ul.navbar-horizontal a:hover {  
+    background-color:blue;
+    color:white;
+  }
 
 table,th,td{
     border: 1px solid black;
