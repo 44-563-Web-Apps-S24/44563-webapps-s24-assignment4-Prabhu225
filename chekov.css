@@ -59,8 +59,9 @@
     border:1px solid black ;
     width: fit-content;
 }
+
 .navbar{
-    background-color: burlywood;
+    background-color: antiquewhite;
     color: beige;
     text-align:justify;
     padding: 8px;
@@ -70,9 +71,12 @@
     justify-content: space-around;
 }
 .navbar:hover{
-    color: navajowhite;
+    color: chartreuse;
 }
-
+.image{
+    height: 275px;
+    width: 165px;
+}
 ul.navbar-horizontal {
     list-style-type: none;
     margin: 0;
